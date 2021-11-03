@@ -1,6 +1,6 @@
 # Linky
 
-GeorgePlugin is a discord bot
+Linky is a discord bot, one that will watch whatever channel you tell it to untill it finds an URL. Whenever it finds one, it will automaticly copy the URL and post it in a seperate channel for all your URLS to be hanging out together in there.
 
 ### Requirements
 
